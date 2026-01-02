@@ -1,7 +1,7 @@
 {
-  "name": "plugin-sample-vite-vue",
+  "name": "plugin-feishu-table",
   "author": "wetoria",
-  "url": "https://github.com/Wetoria/plugin-sample-vite-vue",
+  "url": "https://github.com/Wetoria/plugin-feishu-table",
   "version": "0.0.1",
   "minAppVersion": "2.10.14",
   "disabledInPublish": true,
@@ -12,14 +12,14 @@
     "all"
   ],
   "displayName": {
-    "default": "plugin-sample-vite-vue",
-    "en_US": "plugin-sample-vite-vue",
-    "zh_CN": "plugin-sample-vite-vue"
+    "default": "plugin-feishu-table",
+    "en_US": "plugin-feishu-table",
+    "zh_CN": "plugin-feishu-table"
   },
   "description": {
-    "default": "plugin-sample-vite-vue",
-    "en_US": "plugin-sample-vite-vue",
-    "zh_CN": "plugin-sample-vite-vue"
+    "default": "plugin-feishu-table",
+    "en_US": "plugin-feishu-table",
+    "zh_CN": "plugin-feishu-table"
   },
   "readme": {
     "default": "README.md",
